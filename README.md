@@ -77,7 +77,7 @@ Built by **Mohd Sharfuddin Khan** — Frontend & UI Developer (8+ years).
 
 If this helped with your prep, a ⭐ on the repo or a share with someone else job-hunting goes a long way.
 
-[LinkedIn](https://linkedin.com) · [GitHub](https://github.com/sharfuddin1984)
+[LinkedIn](https://linkedin.com/in/sharfuddinkhan/) · [GitHub](https://github.com/sharfuddin1984)
 
 ## 📄 License
 
